@@ -10,7 +10,7 @@ console.log(os.arch());
 
 // CPU Core Info
 
-// console.log(os.cpus());
+console.log(os.cpus());
 
 // Free memory
 console.log(os.freemem());
